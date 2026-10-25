@@ -1,0 +1,6 @@
+{
+  "name": "DukanLedger - Commercial Shop Rent & WhatsApp Reminder",
+  "description": "Secure mobile-first dashboard to manage rented commercial shops, track tenant payment status, generate receipts, and send one-tap automated WhatsApp rent reminders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

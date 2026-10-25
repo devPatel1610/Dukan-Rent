@@ -1,0 +1,26 @@
+{
+  "id": "/",
+  "name": "DukanLedger Commercial Shop Rent",
+  "short_name": "DukanLedger",
+  "description": "Commercial shop tenant rent records and WhatsApp reminders.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F8F9F5",
+  "theme_color": "#14281D",
+  "icons": [
+    {
+      "src": "/icon-192.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-512.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192" width="192" height="192">
+  <rect width="192" height="192" rx="36" fill="#14281D"/>
+  <!-- Modern architectural shop front icon -->
+  <path d="M48 64 L144 64 L144 76 L48 76 Z" fill="#FACC15"/>
+  <path d="M48 76 L60 100 L76 100 L68 76 Z" fill="#E2E8F0"/>
+  <path d="M76 76 L88 100 L104 100 L96 76 Z" fill="#CBD5E1"/>
+  <path d="M104 76 L116 100 L132 100 L124 76 Z" fill="#E2E8F0"/>
+  <path d="M132 76 L144 100 L144 76 Z" fill="#CBD5E1"/>
+  <rect x="56" y="100" width="80" height="52" rx="4" fill="#1E3A2B" stroke="#4ADE80" stroke-width="3"/>
+  <rect x="70" y="116" width="22" height="36" fill="#14281D" stroke="#94A3B8" stroke-width="2"/>
+  <rect x="100" y="116" width="22" height="24" rx="2" fill="#334155" stroke="#94A3B8" stroke-width="2"/>
+  <!-- WhatsApp / Communication indicator -->
+  <circle cx="140" cy="52" r="14" fill="#22C55E"/>
+  <path d="M134 52 C134 49 137 46 140 46 C143 46 146 49 146 52 C146 54 144.5 56 143 57 L143 59 L137 59 L137 57 C138.5 56 140 54 140 52" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" fill="none"/>
+</svg>
